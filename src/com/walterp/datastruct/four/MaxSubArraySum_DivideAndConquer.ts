@@ -1,4 +1,5 @@
 namespace com.walterp.datastruct.four{
+
     class SubArrayInfo{
         /**
          * @param arr
@@ -90,6 +91,9 @@ namespace com.walterp.datastruct.four{
 
 
     maxSubArray(arr, 0, arr.length -1 );
+
+    export { maxSubArray };
+    export { SubArrayInfo };
 }
 
 
