@@ -2,3 +2,5 @@ node_modules/
 .idea/
 .settings/
 .DS_Store
+yarn-error.log
+.project

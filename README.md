@@ -2,7 +2,7 @@
 
 Selected Examples + Solutions to the MIT course 6.006 "Introduction to Algorithms".
 
-I'm using a Behavioral Driven Design (BDD) approach to assert that my algorithm snippets are correct.
+Don't use these implementations in your own projects, these are simply for my own enlightenment. There are far better implementations to use.
 
 ## Resources
 - Course home:
@@ -15,7 +15,7 @@ Check out the generated HTML file in the `.docs/MIT Data Structures` folder. I'l
 
 ## Table of Contents
 1) tba
-2) tba
+2) Insertion sort
 3) tba
 4) Divide and Conquer (in folder `src/com/walterp/datastruct/four`)
 
